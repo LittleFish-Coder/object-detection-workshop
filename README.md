@@ -2,11 +2,11 @@
 
 ## Installation
 ```
-conda create -n acne-detector python=3.11
+conda create -n workshop python=3.11
 ```
 
 ```
-conda activate acne-detector
+conda activate workshop
 ```
 
 ```

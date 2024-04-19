@@ -6,7 +6,7 @@ model = YOLO('yolov8n.pt')
 
 # Open the video file
 video_path = "src/newjeans.mp4"
-video_path = 0  # if 0 -> webcamd
+video_path = 0  # if 0 -> webcam
 cap = cv2.VideoCapture(video_path)
 
 # Loop through the video frames, press 'q' to quit
