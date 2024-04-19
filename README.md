@@ -1,4 +1,4 @@
-# Acne - Detector
+# Object Detection Workshop
 
 ## Installation
 ```
